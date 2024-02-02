@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **...**
 
-- 🌱 I’m currently learning **Tailwind CSS, next.js, TypeScript**
+- 🌱 I’m currently learning **Next.js, TypeScript**
 
 - 👀 I’m interested in Software and Data Science
 
