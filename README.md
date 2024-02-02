@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Willy M Romero</h1>
 <h3 align="center">A passionate Software Engineer from Ecuador</h3>
 
-- 🔭 I’m currently working on **...**
+- 🔭 I’m currently working as freelancer Software Engineer 🦾
 
 - 🌱 I’m currently learning **Next.js, TypeScript**
 
