@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as freelancer Software Engineer 🦾
 
-- 🌱 I’m currently learning **Next.js, TypeScript**
+- 🌱 I’m currently learning **GCP | Next.js**
 
 - 👀 I’m interested in Software and Data Science
 
