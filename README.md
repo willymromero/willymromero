@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Willy M Romero</h1>
-<h3 align="center">A passionate Software Engineer from Ecuador</h3>
+<h3 align="center">Software Engineer from Ecuador</h3>
 
 - 🔭 I’m currently working as freelancer Software Engineer 🦾
 
-- 🌱 I’m currently learning **GCP | Next.js**
+- 🌱 I’m currently learning **Next.js**
 
-- 👀 I’m interested in Software and Data Science
+- 👀 I’m interested in Software Engineering and Data Science
 
 - 👨‍💻 All of my projects are available at [https://github.com/maikcodes](https://github.com/maikcodes)
 
 - 📫 How to reach me **<willymromero@gmail.com>**
 
-- 🔗 See my web resume at [willymromero](https://willymromero.vercel.app/)
+- 🔗 See my web portfolio at [willymromero](https://willymromero.vercel.app/)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
