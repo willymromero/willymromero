@@ -16,13 +16,13 @@
     />
 </a>
 <!--  -->
-<!-- <a href="https://www.linkedin.com/in/willymromero/">
+<a href="https://www.linkedin.com/in/willymromero/">
     <img
         src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
         alt="maikcodes' HackerRank"
         height="35"
     />
-</a> -->
+</a>
 <!--  -->
 <a href="https://www.linkedin.com/in/willymromero/">
     <img
@@ -57,11 +57,11 @@
         height="150"
     />
 <!--  -->
-    <img
+<!--     <img
         src="https://github-readme-streak-stats.herokuapp.com/?user=willymromero&theme=nord&title_color=22d3ee&hide_border=true&hide_total_contributions=true&hide_current_streak=true"
         alt="maikcodes GitHub Streak"
         height="150"
-    />
+    /> -->
 </div>
 
 <h3 align="left">Languages:</h3>
