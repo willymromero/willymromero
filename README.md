@@ -1,17 +1,68 @@
-<h1 align="center">Hi 👋, I'm Willy M Romero</h1>
-<h3 align="center">Software Engineer from Ecuador</h3>
+<div align="center">
+<img
+    src="github-header-image.png"
+    alt="maikcodes' header image"
+/>
+</div>
+
+</br>
+
+<div align="center">
+<a href="https://willymromero.vercel.app/">
+    <img
+        src="https://img.shields.io/static/v1?message=portfolio&logo=vercel&label=&color=000&logoColor=white&labelColor=&style=for-the-badge"
+        alt="maikcdes' portfolio"
+        height="35"
+    />
+</a>
+<!--  -->
+<a href="https://www.linkedin.com/in/willymromero/">
+    <img
+        src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
+        alt="maikcodes' HackerRank"
+        height="35"
+    />
+</a>
+<!--  -->
+<a href="https://www.linkedin.com/in/willymromero/">
+    <img
+        src="https://img.shields.io/static/v1?message=HackerRank&logo=HackerRank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge"
+        alt="maikcodes' linkedin"
+        height="35"
+    />
+</a>
+</div>
+
+## 💫 About Me
 
 - 🔭 I’m currently working as freelancer Software Engineer 🦾
-
 - 🌱 I’m currently learning **Next.js**
-
 - 👀 I’m interested in Software Engineering and Data Science
-
-- 👨‍💻 All of my projects are available at [https://github.com/maikcodes](https://github.com/maikcodes)
-
+- 👨‍💻 All of my projects are available at **[https://github.com/maikcodes](https://github.com/maikcodes)**
 - 📫 How to reach me **<willymromero@gmail.com>**
+- 🔗 See my web portfolio at **[willymromero](https://willymromero.vercel.app/)**
+  
+<br/>
 
-- 🔗 See my web portfolio at [willymromero](https://willymromero.vercel.app/)
+<div align="center">
+    <img
+        src="https://github-readme-stats.vercel.app/api?username=willymromero&theme=nord&title_color=22d3ee&hide_border=true&include_all_commits=false&count_private=false"
+        alt="maikcodes GitHub Stats"
+        height="150"
+    />
+<!--  -->
+    <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=willymromero&theme=nord&title_color=22d3ee&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
+        alt="maikcodes Most Used Languages"
+        height="150"
+    />
+<!--  -->
+    <img
+        src="https://github-readme-streak-stats.herokuapp.com/?user=willymromero&theme=nord&title_color=22d3ee&hide_border=true&hide_total_contributions=true&hide_current_streak=true"
+        alt="maikcodes GitHub Streak"
+        height="150"
+    />
+</div>
 
 <h3 align="left">Languages:</h3>
 <p align="left">
@@ -97,12 +148,3 @@
             height="40" />
     </a>
 </p>
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=willymromero&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="maikcodes" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=willymromero&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en" alt="maikcodes" />
-
-<!---
-wromero0111/wromero0111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
