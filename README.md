@@ -24,7 +24,7 @@
     />
 </a>
 <!--  -->
-<a href="https://www.linkedin.com/in/willymromero/" target="_blank" rel="noreferrer">
+<a href="https://www.hackerrank.com/profile/willymromero" target="_blank" rel="noreferrer">
     <img
         src="https://img.shields.io/static/v1?message=HackerRank&logo=HackerRank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge"
         alt="maikcodes' linkedin"
