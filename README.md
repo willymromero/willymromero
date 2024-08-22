@@ -8,7 +8,7 @@
 </br>
 
 <div align="center">
-<a href="https://willymromero.vercel.app/">
+<a href="https://willymromero.vercel.app/" target="_blank" rel="noreferrer">
     <img
         src="https://img.shields.io/static/v1?message=portfolio&logo=vercel&label=&color=000&logoColor=white&labelColor=&style=for-the-badge"
         alt="maikcdes' portfolio"
@@ -16,7 +16,7 @@
     />
 </a>
 <!--  -->
-<a href="https://www.linkedin.com/in/willymromero/">
+<a href="https://www.linkedin.com/in/willymromero/" target="_blank" rel="noreferrer">
     <img
         src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
         alt="maikcodes' HackerRank"
@@ -24,7 +24,7 @@
     />
 </a>
 <!--  -->
-<a href="https://www.linkedin.com/in/willymromero/">
+<a href="https://www.linkedin.com/in/willymromero/" target="_blank" rel="noreferrer">
     <img
         src="https://img.shields.io/static/v1?message=HackerRank&logo=HackerRank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge"
         alt="maikcodes' linkedin"
