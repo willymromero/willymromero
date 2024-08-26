@@ -1,8 +1,10 @@
 <div align="center">
-<img
-    src="github-header-image.png"
-    alt="maikcodes' header image"
-/>
+<a href="https://github.com/willymromero/">
+    <img
+        src="github-header-image.png"
+        alt="maikcodes' header image"
+    />
+</a>
 </div>
 
 </br>
