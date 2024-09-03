@@ -40,7 +40,7 @@
 - 🔭 I’m currently working as freelancer Software Engineer 🦾
 - 🌱 I’m currently learning **Next.js**
 - 👀 I’m interested in Software Engineering and Data Science
-- 👨‍💻 All of my projects are available at **[https://github.com/maikcodes](https://github.com/maikcodes)**
+- 👨‍💻 All of my projects are available at **[https://github.com/maikcodes](https://github.com/willymromero)**
 - 📫 How to reach me **<willymromero@gmail.com>**
 - 🔗 See my web portfolio at **[willymromero](https://willymromero.vercel.app/)**
   
