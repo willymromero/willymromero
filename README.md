@@ -35,7 +35,7 @@
 </a>
 </div>
 
-`"O(log n) exists because we sorted first'`
+            `"O(log n) exists because we sorted first"`
 
 ## 💫 About Me
 
