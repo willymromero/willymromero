@@ -35,8 +35,6 @@
 </a>
 </div>
 
-            `"O(log n) exists because we sorted first"`
-
 ## 💫 About Me
 
 - 🔭 I’m currently working as freelancer Software Engineer 🦾
