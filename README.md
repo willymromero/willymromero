@@ -38,7 +38,7 @@
 ## 💫 About Me
 
 - 🔭 I’m currently working as freelancer Software Engineer 🦾
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Go**, **DDD**
 - 👀 I’m interested in Software Engineering
 - 👨‍💻 All of my projects are available at **[github/willymromero](https://github.com/willymromero)**
 - 📫 How to reach me **<willymromero@gmail.com>**
