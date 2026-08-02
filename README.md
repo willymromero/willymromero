@@ -72,7 +72,7 @@
 
 ### Frameworks/technologies
 
-![Languages](https://skillicons.dev/icons?i=nodejs,express,nestjs,nextjs,react,angular,tailwindcss,bootstrap,docker,prisma,sequelize,postgres,mongodb,mysql,sqlite)
+![Languages](https://skillicons.dev/icons?i=nodejs,express,nestjs,nextjs,react,angular,tailwindcss,bootstrap,docker,nginx,prisma,sequelize,postgres,mongodb,mysql,sqlite)
 
 ### Tools
 
