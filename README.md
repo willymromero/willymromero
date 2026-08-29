@@ -38,7 +38,7 @@
 ## 💫 About Me
 
 - 🔭 I’m a Software Engineer 🦾
-- 🌱 I’m currently learning **Go**, **DDD**
+- 🌱 I’m currently learning **Harness Engineering**
 - 👀 I’m interested in Software Engineering
 - 👨‍💻 All of my projects are available at **[github/willymromero](https://github.com/willymromero)**
 - 📫 How to reach me **<willymromero@gmail.com>**
